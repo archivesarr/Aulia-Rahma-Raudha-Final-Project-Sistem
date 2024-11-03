@@ -6,7 +6,7 @@ import MainLayout from '@/layouts/MainLayout.vue'
   <MainLayout>
     <main class="w-full h-full overflow-x-hidden">
       <!-- Hero -->
-      <section class="h-[720px] bg-[url('@/assets/images/misc/cover.png')] bg-cover">
+      <section class="h-[720px] bg-[url('@/assets/images/misc/cover.png')] bg-cover pt-20">
         <div class="w-full h-full flex flex-col gap-5 px-[80px] pt-[128px] bg-x-black bg-opacity-40">
           <h5 class="text-white text-start font-semibold tracking-[3px]">POSTED ON <span class="font-black">STARTUP</span></h5>
           <h1 class="w-[80%] text-white text-[56px] font-bold tracking-[-2px] leading-[64px]">Step-by-step guide to choosing great font pairs</h1>

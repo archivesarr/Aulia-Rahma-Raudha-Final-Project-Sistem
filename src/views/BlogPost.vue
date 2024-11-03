@@ -3,9 +3,9 @@ import MainLayout from '@/layouts/MainLayout.vue'
 </script>
 
 <template>
-  <MainLayout>
+  <MainLayout class="pt-20">
     <main class="w-full h-full overflow-x-hidden">
-      <section class="px-[80px] pt-[80px] flex justify-center items-center">
+      <section class="px-[80px] pt-[100px] flex justify-center items-center">
         <div class="flex flex-col items-start gap-4 pt-[48px] px-[256px]">
           <div class="flex items-center justify-center gap-4">
             <img src="@/assets/images/misc/man-with-glasses.png" alt="Man with glasses">

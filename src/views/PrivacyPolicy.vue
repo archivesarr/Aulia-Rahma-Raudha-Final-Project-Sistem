@@ -4,10 +4,10 @@ import MainLayout from '@/layouts/MainLayout.vue'
 
 <template>
   <MainLayout>
-    <header class="bg-blue-50 p-8 border-b border-gray-300">
+    <section class="bg-blue-50 p-8 border-b border-gray-300 pt-28">
       <h1 class="text-3xl font-bold text-center text-gray-900">Privacy Policy</h1>
       <p class="text-center text-base text-gray-500 mt-2">Last Updated on 27th January 2022</p>
-    </header>
+    </section>
 
     <article class="px-8 py-16 max-w-4xl mx-auto text-gray-800">
       <section>

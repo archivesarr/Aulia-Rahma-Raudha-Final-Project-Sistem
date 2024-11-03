@@ -4,7 +4,7 @@ import MainLayout from '@/layouts/MainLayout.vue'
 
 <template>
   <MainLayout>
-    <header data-layername="authorHeader" class="flex flex-col">
+    <header data-layername="authorHeader" class="flex flex-col pt-20">
       <div data-layername="background" class="flex flex-col items-center px-20 pt-32 w-full bg-gray-100 max-md:px-5 max-md:pt-24 max-md:max-w-full">
         <div class="flex flex-col w-full max-w-screen-lg max-md:max-w-full">
           <div class="max-w-full w-[952px]">

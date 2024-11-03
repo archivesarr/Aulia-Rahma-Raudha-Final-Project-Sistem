@@ -3,7 +3,7 @@ import MainLayout from '@/layouts/MainLayout.vue'
 </script>
 
 <template>
-  <MainLayout>
+  <MainLayout class="pt-20">
     <main class="w-full h-full overflow-x-hidden">
       <section class="mt-[300px] bg-white px-4 md:px-[80px] py-[40px]">
     <div class="flex flex-col gap-8 items-center md:items-start">

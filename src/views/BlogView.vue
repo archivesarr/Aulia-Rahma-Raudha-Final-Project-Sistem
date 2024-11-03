@@ -3,10 +3,10 @@ import MainLayout from '@/layouts/MainLayout.vue'
 </script>
 
 <template>
-  <MainLayout>
+  <MainLayout class="pt-20">
     <main class="w-full h-full overflow-x-hidden">
       <!-- Hero -->
-      <section class="bg-x-lavender p-[80px] flex justify-between items-center gap-8">
+      <section class="bg-x-lavender p-[80px] flex justify-between items-center gap-8 pt-40">
         <div class="flex flex-col gap-5">
           <h5 class="text-x-black font-medium tracking-[3px]">FEATURED POST</h5>
           <h2 class="text-x-black text-4xl font-bold tracking-[-2px] leading-[48px]">Step-by-step guide to choosing great font pairs</h2>

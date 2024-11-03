@@ -3,9 +3,9 @@ import MainLayout from '@/layouts/MainLayout.vue'
 </script>
 
 <template>
-  <MainLayout>
+  <MainLayout class="pt-20">
     <!-- Header Section -->
-    <section class="flex flex-col items-center text-center text-gray-800 max-w-[749px] mx-auto my-8">
+    <section class="flex flex-col items-center text-center text-gray-800 max-w-[749px] mx-auto my-8 mt-24 pt-20"> <!-- Tambahkan mt-24 -->
       <h2 class="font-black uppercase tracking-[3px] text-gray-700">Contact Us</h2>
       <h3 class="mt-3 text-5xl font-bold text-gray-900">Let's Start a Conversation</h3>
       <p class="mt-6 text-zinc-500 text-lg">
@@ -58,3 +58,4 @@ import MainLayout from '@/layouts/MainLayout.vue'
     </section>
   </MainLayout>
 </template>
+
